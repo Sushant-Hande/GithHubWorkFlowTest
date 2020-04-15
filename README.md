@@ -1,6 +1,8 @@
 # GithHubWorkFlowTest
 This repository represents the GitHub WorkFlow for Android Build process.
 
+![Android Pull Request & Master CI](https://github.com/Sushant-Hande/GithHubWorkFlowTest/workflows/Android%20Pull%20Request%20&%20Master%20CI/badge.svg?branch=master)
+
 # About
 This repo demonstrate the Github Workflow.
 
